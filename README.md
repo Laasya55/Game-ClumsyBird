@@ -1,6 +1,3 @@
-Here's a detailed and effective README for your Flappy Bird clone project built with Unity:  
-
----
 
 # Flappy Bird Clone
 
@@ -89,6 +86,3 @@ This project is currently unlicensed. Feel free to use it for learning purposes.
 
 Developed with passion using Unity. This game is a personal project aimed at improving my skills in game development and design.  
 
----  
-
-Feel free to replace placeholder text (like repository links, video demo links, or username) with actual information.
