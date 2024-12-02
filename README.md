@@ -54,7 +54,7 @@ Try the game with .exe file uploaded above.
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/yourusername/flappy-bird-clone.git
+   git clone https://github.com/Laasya55/Game-ClumsyBird.git
    ```  
 2. **Open in Unity**: Launch Unity and open the project folder.  
 3. **Run the Game**: Press the **Play** button in the Unity Editor or build it for your target platform.  
